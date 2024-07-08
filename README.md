@@ -1,1 +1,1 @@
-# cài java.jsp web để chạy
+# cài java.jsp web và sql để chạy
